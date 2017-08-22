@@ -18,7 +18,7 @@ Query multiple post types using /wp/v2/posts
  * GET wp/v2/posts?type=roy
  * GET wp/v2/posts?type[]=roy&type[]=mike
 
- A free plugin by [Caldera Labs](http://calderalabs.org]
+ A free plugin by [Caldera Labs](http://calderalabs.org?utm_source=dotOrg&utm_medium=plugins&utm_campaign=rest-api-multiple-post-types] the makers of [Caldera Forms](https://calderaforms.com?utm_source=dotOrg&utm_medium=plugins&utm_campaign=rest-api-multiple-post-types) a drag and drop responsive form builder.
 
  == Installation ==
 
